@@ -1,0 +1,20 @@
+{
+  "name": "import-from-woocommerce-to-fortnox-cron-v1",
+  "version": "0.0.1",
+  "description": "v1.js: A module bundled by ac-bundle-module.",
+  "main": "v1.js",
+  "scripts": {
+    "start": "node v1.js"
+  },
+  "keywords": [
+    "v1.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/import-from-woocommerce-to-fortnox-cron/modules/import-from-woocommerce-to-fortnox-cron-v1/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
